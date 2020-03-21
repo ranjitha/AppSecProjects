@@ -15,8 +15,9 @@ pip install pillow
 ## How To Run
 1. Ensure the required libraries are installed as listed above. 
 2. cd to (your) correct directory with the provided code.
-3. Run run.py in the terminal and navigate to view the web app.
-4. Go to local host specified in program output using your browser (should be local host with IP address http://127.0.0.1:5000/)
+3. cd into the app directory
+4. Run run.py in the terminal and navigate to view the web app.
+5. Go to local host specified in program output using your browser (should be local host with IP address http://127.0.0.1:5000/)
 
 ## Contribution
 This project was done in collaboration with Ranjitha Gurushanthappa.

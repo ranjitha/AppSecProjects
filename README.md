@@ -18,6 +18,7 @@ pip install pillow
 3. cd into the app directory
 4. Run run.py in the terminal and navigate to view the web app.
 5. Go to local host specified in program output using your browser (should be local host with IP address http://127.0.0.1:5000/)
+6. Register and login with your email id. Blog away!
 
 ## Contribution
 This project was done in collaboration with Michael Kochera.
